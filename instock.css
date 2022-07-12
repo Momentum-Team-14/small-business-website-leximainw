@@ -8,5 +8,6 @@ article img
     max-width: 200px;
     max-height: 300px;
     float: left;
+    margin-left: 1em;
     margin-right: 2em;
 }

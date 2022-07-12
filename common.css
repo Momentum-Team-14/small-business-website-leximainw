@@ -1,8 +1,22 @@
+body
+{
+    margin: 0;
+}
 nav
 {
-    background-color: white;
+    background-color: lightskyblue;
+    margin-bottom: 1em;
     padding-top: 1em;
     padding-bottom: 1em;
     position: sticky;
     top: 0;
+    text-align: center;
+}
+nav div
+{
+    display: inline-block;
+}
+nav div a
+{
+    margin-right: 2em;
 }
