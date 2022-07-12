@@ -2,6 +2,10 @@ body
 {
     margin: 0;
 }
+main
+{
+    margin: 1em;
+}
 nav
 {
     background-color: lightskyblue;
