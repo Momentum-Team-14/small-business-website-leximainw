@@ -2,6 +2,13 @@ body
 {
     margin: 0;
 }
+div.separator
+{
+    background-color: darkgray;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    height: 2px;
+}
 main
 {
     margin: 1em;
