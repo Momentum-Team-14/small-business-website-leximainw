@@ -3,6 +3,11 @@ article
     overflow: hidden;
     margin-bottom: 1em;
 }
+article div.title
+{
+    text-align: center;
+    font-size: 150%;
+}
 article img
 {
     max-width: 200px;
@@ -10,4 +15,9 @@ article img
     float: left;
     margin-left: 1em;
     margin-right: 2em;
+}
+article p
+{
+    margin-top: 0.5em;
+    text-indent: 2em;
 }
