@@ -12,6 +12,7 @@ article img
 {
     max-width: 200px;
     max-height: 300px;
+    border-radius: 1em;
     float: left;
     margin-right: 2em;
 }
