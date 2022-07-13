@@ -25,11 +25,7 @@ nav
     top: 0;
     text-align: center;
 }
-nav div
-{
-    display: inline-block;
-}
-nav div a
+nav a
 {
     margin-right: 2em;
 }
