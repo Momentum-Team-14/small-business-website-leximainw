@@ -5,10 +5,7 @@ body
 div.separator
 {
     background-color: darkgray;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin: 1em 5%;
     height: 2px;
 }
 main
