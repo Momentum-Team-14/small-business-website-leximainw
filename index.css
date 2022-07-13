@@ -1,6 +1,18 @@
-#header-img
+#header-img, #header-img div
 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 300px;
-    width: 100%;
+    overflow: hidden;
+}
+
+#header-img div
+{
+    border-radius: 1em;
+}
+
+#header-img div img
+{
     object-fit: none;
 }
